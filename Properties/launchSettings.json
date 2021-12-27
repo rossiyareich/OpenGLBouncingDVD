@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OpenGLBouncingDVD": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
